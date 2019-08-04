@@ -1,0 +1,23 @@
+{
+  "name": "anki-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pulsovi/anki-manager.git"
+  },
+  "author": "David Gabison",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pulsovi/anki-manager/issues"
+  },
+  "homepage": "https://github.com/pulsovi/anki-manager#readme",
+  "dependencies": {
+    "find-process": "^1.4.2",
+    "node-netstat": "^1.7.0"
+  }
+}
